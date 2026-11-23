@@ -2,7 +2,7 @@
 
 ## Working group
 
-- **Chairs:** <TBD>; 
+- **Chairs:** TBD 
 - **Mailing list:** TBD — confirm the appropriate mailing list
 - **Meetings:** TBD
 
