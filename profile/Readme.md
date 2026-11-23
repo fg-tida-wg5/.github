@@ -1,5 +1,4 @@
-# FG-TIDA WG5: Governance / Cross-Border / Interoperable Credentials
-
+# FG-TIDA WG5: ICAP
 ## Working group
 
 - **Chairs:** TBD 
